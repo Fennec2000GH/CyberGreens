@@ -1,0 +1,23 @@
+
+body {
+    background-color: greenyellow;
+    margin: auto;
+}
+
+.carousel {
+    height: 50%;
+}
+
+.carousel-item > img {
+    image-resolution: 1080px;
+    width: 100%;
+}
+
+.carousel-caption > h3, p {
+    color: blue;
+    font-size: 48px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    background-color: blue;
+}
